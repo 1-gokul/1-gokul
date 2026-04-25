@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&color=3572A5)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-informational?style=flat&color=f0a500)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-informational?style=flat&color=27a76e)
+![SQL](https://img.shields.io/badge/SQL-informational?style=flat&color=e0a030)
 
 &nbsp;
 
