@@ -1,23 +1,20 @@
 <div align="center">
 
 ```
- ██████╗  ██████╗ ██╗  ██╗██╗   ██╗██╗
+██████╗  ██████╗ ██╗  ██╗██╗   ██╗██╗
 ██╔════╝ ██╔═══██╗██║ ██╔╝██║   ██║██║
 ██║  ███╗██║   ██║█████╔╝ ██║   ██║██║
 ██║   ██║██║   ██║██╔═██╗ ██║   ██║██║
 ╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗
- ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
-### *good data doesn't happen by accident.*
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6e40c9&center=true&vCenter=true&width=500&lines=Data+Annotator+%26+Validator;Ground+Truth+Collector;Problem+Solver;Building+reliable+ML+pipelines)](https://git.io/typing-svg)
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6e40c9&center=true&vCenter=true&width=500&lines=ML+Data+Associate;Data+Annotator+%26+Validator;Problem+Solver;Building+reliable+ground+truth+data)](https://git.io/typing-svg)
-
-<br>
-
-![ML Data](https://img.shields.io/badge/ML%20Data%20Associate-6e40c9?style=for-the-badge)
 ![Annotation](https://img.shields.io/badge/Data%20Annotation-e85d4a?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-e0a030?style=for-the-badge)
@@ -86,21 +83,48 @@ is actually true.
 
 ---
 
-## 📊 github stats
+## 🐍 contribution snake
 
-<div align="center">
+> **Setup:** Go to your `1-gokul` repo → Actions → New workflow → paste this to generate the snake automatically:
 
-![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-gokul&show_icons=true&theme=tokyonight&hide_border=true)
+```yaml
+name: Generate Snake
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-gokul&layout=compact&theme=tokyonight&hide_border=true)
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-</div>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: 1-gokul
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+*Once set up, replace this section with:*
+```
+![snake gif](https://github.com/1-gokul/1-gokul/blob/output/github-contribution-grid-snake-dark.svg)
+```
 
 ---
 
 ## 📬 reach me
 
 <div align="center">
+
+![ML Data Associate](https://img.shields.io/badge/ML%20Data%20Associate-6e40c9?style=for-the-badge)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-prasad-161577324/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulprasad497@gmail.com)
