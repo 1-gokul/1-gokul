@@ -10,10 +10,6 @@
 ```
 <br>
 
-### `developer` &nbsp;·&nbsp; `data enthusiast` &nbsp;·&nbsp; `analyst in the making`
-
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6e40c9&center=true&vCenter=true&width=500&lines=CS+Graduate;Python+%26+SQL+Developer;Data+%26+Analytics+Enthusiast;Problem+Solver;Building+things+that+work)](https://git.io/typing-svg)
 
 <br>
