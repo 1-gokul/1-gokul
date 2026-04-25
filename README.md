@@ -7,15 +7,22 @@
  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
-> *find the pattern. fix the problem. ship the thing.*
+> *good data doesn't happen by accident.*
 
 &nbsp;
 
-![ML](https://img.shields.io/badge/ML%20Data-informational?style=flat&color=6e40c9)
+![ML Data](https://img.shields.io/badge/ML%20Data%20Associate-informational?style=flat&color=6e40c9)
+![Annotation](https://img.shields.io/badge/Data%20Annotation-informational?style=flat&color=e85d4a)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&color=3572A5)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-informational?style=flat&color=e85d4a)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-informational?style=flat&color=f0a500)
-![SQL](https://img.shields.io/badge/SQL-informational?style=flat&color=27a76e)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-informational?style=flat&color=f0a500)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-informational?style=flat&color=27a76e)
+
+&nbsp;
+
+**what i do**
+```
+collect  →  annotate  →  validate  →  solve  →  repeat
+```
 
 &nbsp;
 
@@ -32,17 +39,17 @@ $ ls -1 projects/
 
 **how i think**
 ```python
-problem   = undefined
+problem   = messy_data
 approach  = break_it_down(problem)
-solution  = iterate(approach, until="it works")
-shipping  = True
+solution  = iterate(approach, until="quality_passes")
+done      = True
 ```
 
 &nbsp;
 
 **stack**
 ```python
-focus    = ["ML data pipelines", "computer vision", "problem solving"]
+core     = ["Data Annotation", "Ground Truth Collection", "Quality Auditing"]
 tools    = ["Python", "SQL", "Microsoft Office"]
 learning = ["LLMs", "data quality frameworks"]
 ```
@@ -50,6 +57,6 @@ learning = ["LLMs", "data quality frameworks"]
 &nbsp;
 
 ```
-not all who wander are lost.  
-some are just debugging.
+not all who wander are lost.
+some are just cleaning the dataset.
 ```
