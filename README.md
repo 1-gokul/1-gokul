@@ -5,21 +5,20 @@
 ██╔════╝ ██╔═══██╗██║ ██╔╝██║   ██║██║
 ██║  ███╗██║   ██║█████╔╝ ██║   ██║██║
 ██║   ██║██║   ██║██╔═██╗ ██║   ██║██║
-     ╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗
-     ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗
+ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6e40c9&center=true&vCenter=true&width=500&lines=Data+Annotator+%26+Validator;Ground+Truth+Collector;Problem+Solver;Building+reliable+ML+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6e40c9&center=true&vCenter=true&width=500&lines=CS+Graduate;Python+%26+SQL+Developer;Data+%26+Analytics+Enthusiast;Problem+Solver;Building+things+that+work)](https://git.io/typing-svg)
 
 <br>
 
-![Annotation](https://img.shields.io/badge/Data%20Annotation-e85d4a?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-e0a030?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-27a76e?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-f0a500?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-27a76e?style=for-the-badge)
 
 </div>
 
@@ -29,11 +28,11 @@
 
 ```python
 gokul = {
-    "role"      : "ML Data Associate",
+    "role"      : "CS Graduate — Dev & Data",
     "location"  : "Kerala, India 🇮🇳",
-    "focus"     : ["ground truth data", "annotation pipelines", "computer vision"],
-    "strengths" : ["attention to detail", "quality auditing", "problem solving"],
-    "learning"  : ["LLMs", "data quality frameworks"],
+    "focus"     : ["software development", "data pipelines", "machine learning"],
+    "strengths" : ["clean code", "problem solving", "attention to detail"],
+    "learning"  : ["system design", "LLMs", "data quality frameworks"],
     "available" : True
 }
 ```
@@ -43,17 +42,16 @@ gokul = {
 ## ⚡ what i do
 
 ```
-collect  →  annotate  →  validate  →  solve  →  repeat
+think  →  build  →  test  →  improve  →  repeat
 ```
 
-I work at the intersection of **raw data** and **model-ready datasets** —
-cleaning the mess, labelling the signal, and making sure the ground truth
-is actually true.
+I like building things — whether that's a backend module, a data pipeline,
+or a small tool that makes a workflow 10x faster.
 
-- 🔍 &nbsp; Detail-oriented annotation across text, image & audio
-- ✅ &nbsp; Quality auditing and SLA-driven delivery
-- 🛠️ &nbsp; Building small tools to make data workflows faster
-- 🧩 &nbsp; Problem solving — from pipeline bugs to label inconsistencies
+- 🛠️ &nbsp; Software development — clean, functional, maintainable code
+- 📊 &nbsp; Data pipelines, analysis, and ETL workflows  
+- 🤖 &nbsp; Machine learning — from preprocessing to deployment
+- 🧩 &nbsp; Problem solving — whatever the stack, whatever the domain
 
 ---
 
@@ -74,10 +72,10 @@ is actually true.
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-e0a030?style=flat-square)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
 
@@ -92,8 +90,6 @@ is actually true.
 
 <div align="center">
 
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-prasad-161577324/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulprasad497@gmail.com)
 
@@ -105,7 +101,7 @@ is actually true.
 
 ```
 not all who wander are lost.
-some are just cleaning the dataset.
+some are just figuring out what to build next.
 ```
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=1-gokul.1-gokul)
