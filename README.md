@@ -18,7 +18,7 @@
 ![SQL](https://img.shields.io/badge/SQL-e0a030?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-27a76e?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-f0a500?style=for-the-badge)
-![Data Enthusiast](https://img.shields.io/badge/Machine%20Learning-27a76e?style=for-the-badge)
+![Data Enthusiast](https://img.shields.io/badge/Data%20Enthusiast-4B8BBE?style=for-the-badge)
 </div>
 
 ---
