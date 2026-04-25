@@ -92,7 +92,7 @@ is actually true.
 
 <div align="center">
 
-![ML Data Associate](https://img.shields.io/badge/ML%20Data%20Associate-6e40c9?style=for-the-badge)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-prasad-161577324/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulprasad497@gmail.com)
