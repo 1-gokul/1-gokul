@@ -8,6 +8,9 @@
      ╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗
      ╚═════╝  ╚═════╝  ╚═╝  ╚═╝╚═════╝  ╚══════╝
 ```
+<br>
+
+### `developer` &nbsp;·&nbsp; `data enthusiast` &nbsp;·&nbsp; `analyst in the making`
 
 <br>
 
