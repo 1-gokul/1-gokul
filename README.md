@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
  ██████╗  ██████╗ ██╗  ██╗██╗   ██╗██╗
 ██╔════╝ ██╔═══██╗██║ ██╔╝██║   ██║██║
@@ -7,57 +9,113 @@
  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 ```
 
-> *good data doesn't happen by accident.*
+### *good data doesn't happen by accident.*
 
-&nbsp;
+<br>
 
-![ML Data](https://img.shields.io/badge/ML%20Data%20Associate-informational?style=flat&color=6e40c9)
-![Annotation](https://img.shields.io/badge/Data%20Annotation-informational?style=flat&color=e85d4a)
-![Python](https://img.shields.io/badge/Python-informational?style=flat&color=3572A5)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-informational?style=flat&color=f0a500)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-informational?style=flat&color=27a76e)
-![SQL](https://img.shields.io/badge/SQL-informational?style=flat&color=e0a030)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6e40c9&center=true&vCenter=true&width=500&lines=ML+Data+Associate;Data+Annotator+%26+Validator;Problem+Solver;Building+reliable+ground+truth+data)](https://git.io/typing-svg)
 
-&nbsp;
+<br>
 
-**what i do**
+![ML Data](https://img.shields.io/badge/ML%20Data%20Associate-6e40c9?style=for-the-badge)
+![Annotation](https://img.shields.io/badge/Data%20Annotation-e85d4a?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-e0a030?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-f0a500?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-27a76e?style=for-the-badge)
+
+</div>
+
+---
+
+## 👤 who am i
+
+```python
+gokul = {
+    "role"      : "ML Data Associate",
+    "location"  : "Kerala, India 🇮🇳",
+    "focus"     : ["ground truth data", "annotation pipelines", "computer vision"],
+    "strengths" : ["attention to detail", "quality auditing", "problem solving"],
+    "learning"  : ["LLMs", "data quality frameworks"],
+    "available" : True
+}
+```
+
+---
+
+## ⚡ what i do
+
 ```
 collect  →  annotate  →  validate  →  solve  →  repeat
 ```
 
-&nbsp;
+I work at the intersection of **raw data** and **model-ready datasets** —
+cleaning the mess, labelling the signal, and making sure the ground truth
+is actually true.
 
-**what i build**
-```bash
-$ ls -1 projects/
-  instruct-ai/        # LLM-powered exam proctoring + assessment platform
-  face-recognition/   # CNN-based face recognition from scratch
-  text-classifier/    # rule-based annotation toolkit
-  snippet-manager/    # lightweight code snippet organiser
-```
+- 🔍 &nbsp; Detail-oriented annotation across text, image & audio
+- ✅ &nbsp; Quality auditing and SLA-driven delivery
+- 🛠️ &nbsp; Building small tools to make data workflows faster
+- 🧩 &nbsp; Problem solving — from pipeline bugs to label inconsistencies
 
-&nbsp;
+---
 
-**how i think**
-```python
-problem   = messy_data
-approach  = break_it_down(problem)
-solution  = iterate(approach, until="quality_passes")
-done      = True
-```
+## 🗂️ projects
 
-&nbsp;
+| project | what it does | stack |
+|---|---|---|
+| [**Instruct AI**](https://github.com/1-gokul/Instruct-AI) | LLM-powered exam proctoring + assessment platform | Python, YOLO v5, HTML |
+| [**Face Recognition CNN**](https://github.com/1-gokul/face-recognition-cnn) | Face recognition from scratch using deep learning | Python, CNN |
+| [**Text Annotation Toolkit**](https://github.com/1-gokul/Text-Classification-Data-Annotation-Toolkit) | Rule-based classifier + annotation interface | Python, SQL, JSON |
+| [**Snippet Manager**](https://github.com/1-gokul/snippet-manager) | Lightweight code snippet organiser | HTML |
 
-**stack**
-```python
-core     = ["Data Annotation", "Ground Truth Collection", "Quality Auditing"]
-tools    = ["Python", "SQL", "Microsoft Office"]
-learning = ["LLMs", "data quality frameworks"]
-```
+---
 
-&nbsp;
+## 🧰 stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-e0a030?style=flat-square)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</div>
+
+---
+
+## 📊 github stats
+
+<div align="center">
+
+![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-gokul&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1-gokul&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 reach me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-prasad-161577324/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulprasad497@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
 
 ```
 not all who wander are lost.
 some are just cleaning the dataset.
 ```
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=1-gokul.1-gokul)
+
+</div>
