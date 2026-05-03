@@ -5,8 +5,8 @@
 ██╔════╝ ██╔═══██╗██║ ██╔╝██║   ██║██║
 ██║  ███╗██║   ██║█████╔╝ ██║   ██║██║
 ██║   ██║██║   ██║██╔═██╗ ██║   ██║██║
-     ╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗
-     ╚═════╝  ╚═════╝  ╚═╝  ╚═╝╚═════╝  ╚══════╝
+╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗
+ ╚═════╝  ╚═════╝  ╚═╝  ╚═╝╚═════╝  ╚══════╝
 ```
 <br>
 
@@ -59,6 +59,7 @@ or a small tool that makes a workflow 10x faster.
 | project | what it does | stack |
 |---|---|---|
 | [**Instruct AI**](https://github.com/1-gokul/Instruct-AI) | LLM-powered exam proctoring + assessment platform | Python, YOLO v5, HTML |
+| [**Payout Reconciliation Toolkit**](https://github.com/1-gokul/payout-reconciliation-toolkit) | FinOps pipeline — partner payout reconciliation, discrepancy detection, SLA tracking, automated reports | Python, SQL, SQLite |
 | [**Face Recognition CNN**](https://github.com/1-gokul/face-recognition-cnn) | Face recognition from scratch using deep learning | Python, CNN |
 | [**Text Annotation Toolkit**](https://github.com/1-gokul/Text-Classification-Data-Annotation-Toolkit) | Rule-based classifier + annotation interface | Python, SQL, JSON |
 | [**Snippet Manager**](https://github.com/1-gokul/snippet-manager) | Lightweight code snippet organiser | HTML |
