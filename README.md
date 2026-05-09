@@ -45,7 +45,7 @@ think  →  build  →  test  →  improve  →  repeat
 ```
 
 I like building things — whether that's a backend module, a data pipeline,
-or a small tool that makes a workflow 10x faster.
+or a small tool that makes a workflow 20x faster.
 
 - 🛠️ &nbsp; Software development — clean, functional, maintainable code
 - 📊 &nbsp; Data pipelines, analysis, and ETL workflows  
@@ -86,7 +86,7 @@ or a small tool that makes a workflow 10x faster.
 
 ---
 
-## 📬 reach me here
+## 📬 reach me here 
 
 <div align="center">
 
