@@ -56,14 +56,29 @@ or a small tool that makes a workflow 20x faster.
 
 ## 🗂️ projects
 
-| project | what it does | stack |
+FOR GITHUB PROFILE I NEED TO ADD A PROJECT TO THIS LIST - | project | what it does | stack |
 |---|---|---|
 | [**Instruct AI**](https://github.com/1-gokul/Instruct-AI) | LLM-powered exam proctoring + assessment platform | Python, YOLO v5, HTML |
 | [**Payout Reconciliation Toolkit**](https://github.com/1-gokul/payout-reconciliation-toolkit) | FinOps pipeline — partner payout reconciliation, discrepancy detection, SLA tracking, automated reports | Python, SQL, SQLite |
 | [**Face Recognition CNN**](https://github.com/1-gokul/face-recognition-cnn) | Face recognition from scratch using deep learning | Python, CNN |
 | [**Text Annotation Toolkit**](https://github.com/1-gokul/Text-Classification-Data-Annotation-Toolkit) | Rule-based classifier + annotation interface | Python, SQL, JSON |
-| [**Snippet Manager**](https://github.com/1-gokul/snippet-manager) | Lightweight code snippet organiser | HTML |
+| [**Snippet Manager**](https://github.com/1-gokul/snippet-manager) | Lightweight code snippet organiser | HTML | ADD IT IN 2ND PLACE OSM Data Quality Analyzer
+A Python-based geospatial map data validation tool that extracts real-world map data from OpenStreetMap (OSM), identifies quality issues, and generates structured defect reports with interactive visualisations.
 
+What It Does
+Map data quality is critical for navigation, routing, and location-based services. This tool automates the process of checking map data for common issues such as:
+
+Missing or incomplete road name attributes
+Duplicate Points of Interest (POIs) within a defined proximity
+Inconsistent road type classifications
+POIs with missing category or address fields
+Road segments with no associated name or reference tagTech Stack
+Tool	Purpose
+Python 3.10	Core scripting
+Requests	Overpass API calls
+GeoPandas	Geospatial data handling
+Folium	Interactive map visualisation
+Pandas	Data structuring and analysis
 ---
 
 ## 🧰 stack
