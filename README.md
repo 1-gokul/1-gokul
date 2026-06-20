@@ -1,14 +1,7 @@
 <div align="center">
-
-```
-██████╗  ██████╗ ██╗  ██╗██╗   ██╗██╗
-██╔════╝ ██╔═══██╗██║ ██╔╝██║   ██║██║
-██║  ███╗██║   ██║█████╔╝ ██║   ██║██║
-██║   ██║██║   ██║██╔═██╗ ██║   ██║██║
-     ╚██████╔╝╚██████╔╝██║  ██╗╚██████╔╝███████╗
-      ╚═════╝  ╚═════╝  ╚═╝  ╚═╝╚═════╝  ╚══════╝
-```
-<br>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Gokul%20Prasad&fontSize=50&fontAlignY=40" />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6e40c9&center=true&vCenter=true&width=500&lines=CS+Graduate;Python+%26+SQL+Developer;Data+%26+Analytics+Enthusiast;Problem+Solver;Building+things+that+work)](https://git.io/typing-svg)
 
