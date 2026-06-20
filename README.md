@@ -47,17 +47,14 @@ or a small tool that makes a workflow 20x faster.
 
 ---
 
-## 🗂️ projects
-| project | what it does | stack |
-|---|---|---|
-| [**Instruct AI**](https://github.com/1-gokul/Instruct-AI) | LLM-powered exam proctoring + assessment platform | Python, YOLO v5, HTML |
-| [**OSM Data Quality Analyzer**](https://github.com/1-gokul/osm-data-quality-analyzer) | Geospatial map validation tool that detects road/POI data issues from OpenStreetMap and generates structured defect reports with interactive visualisations | Python, GeoPandas, Folium, Pandas |
-| [**Payout Reconciliation Toolkit**](https://github.com/1-gokul/payout-reconciliation-toolkit) | FinOps pipeline — partner payout reconciliation, discrepancy detection, SLA tracking, automated reports | Python, SQL, SQLite |
-| [**Face Recognition CNN**](https://github.com/1-gokul/face-recognition-cnn) | Face recognition from scratch using deep learning | Python, CNN |
-| [**Text Annotation Toolkit**](https://github.com/1-gokul/Text-Classification-Data-Annotation-Toolkit) | Rule-based classifier + annotation interface | Python, SQL, JSON |
-| [**Snippet Manager**](https://github.com/1-gokul/snippet-manager) | Lightweight code snippet organiser | HTML |
----
+## 🚀 Significant Projects
 
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| [**Instruct AI**](https://github.com/1-gokul/Instruct-AI) | LLM-powered assessment and exam proctoring platform featuring content generation, object detection, eye-movement monitoring, and automated evaluation workflows | Python, YOLOv5, SQL, HTML |
+| [**BioVision AI**](https://github.com/1-gokul/biovision-ai) | AI-powered biological image analysis platform for automated blood cell detection, counting, and classification using deep learning and computer vision techniques | Python, YOLOv8, OpenCV, PyTorch, Streamlit, SQLite |
+| [**Microservice Dependency & Failure Risk Simulator**](https://github.com/1-gokul/DepthCharge) | Simulates microservice failure cascades, analyzes service dependencies using graph analytics, ranks critical services, and predicts failure risk using machine learning | Python, FastAPI, NetworkX, scikit-learn, SQLite |
+| [**Face Recognition CNN**](https://github.com/1-gokul/face-recognition-cnn) | Deep learning-based face recognition system built from scratch using convolutional neural networks for feature extraction and classification | Python, CNN, TensorFlow |
 ## 🧰 stack
 
 <div align="center">
