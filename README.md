@@ -12,6 +12,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-27a76e?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-f0a500?style=for-the-badge)
 ![Data Enthusiast](https://img.shields.io/badge/Data%20Enthusiast-4B8BBE?style=for-the-badge)
+![GATE 2026](https://img.shields.io/badge/GATE%202026-Qualified%20CSE-blue?style=for-the-badge)
 </div>
 
 ---
@@ -20,12 +21,13 @@
 
 ```python
 gokul = {
-    "role"      : "CS Graduate — Dev & Data",
-    "location"  : "Kerala, India 🇮🇳",
-    "focus"     : ["software development", "data pipelines", "machine learning"],
-    "strengths" : ["clean code", "problem solving", "attention to detail"],
-    "learning"  : ["system design", "LLMs", "data quality frameworks"],
-    "available" : True
+    "role"        : "CS Graduate — Dev & Data",
+    "location"    : "Kerala, India 🇮🇳",
+    "credentials" : ["GATE 2026 Qualified — CSE"],
+    "focus"       : ["software development", "data pipelines", "machine learning"],
+    "strengths"   : ["clean code", "problem solving", "attention to detail"],
+    "learning"    : ["system design", "LLMs", "data quality frameworks"],
+    "available"   : True
 }
 ```
 
