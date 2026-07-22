@@ -17,21 +17,7 @@
 
 ---
 
-## 👤 who am i
 
-```python
-gokul = {
-    "role"        : "CS Graduate — Software & Data",
-    "location"    : "Kerala, India 🇮🇳",
-    "credentials" : ["GATE 2026 Qualified — CSE"],
-    "focus"       : ["software development", "backend systems", "machine learning"],
-    "strengths"   : ["clean code", "problem solving", "attention to detail"],
-    "learning"    : ["system design", "LLMs", "distributed systems"],
-    "available"   : True
-}
-```
-
----
 
 ## ⚡ what i do
 
