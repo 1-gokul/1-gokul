@@ -42,7 +42,6 @@ or a small tool that makes a workflow 20x faster.
 |----------|-------------|------------|
 | [**Instruct AI**](https://github.com/1-gokul/Instruct-AI) | LLM-powered assessment and exam proctoring platform featuring content generation, object detection, eye-movement monitoring, and automated evaluation workflows | Python, YOLOv5, SQL, HTML |
 | [**BioVision AI**](https://github.com/1-gokul/BioVision-AI-Deep-Learning-Based-Microscopic-Cell-Analysis) | AI-powered biological image analysis platform for automated blood cell detection, counting, and classification using deep learning and computer vision techniques | Python, YOLOv8, OpenCV, PyTorch, Streamlit, SQLite |
-| [**Microservice Dependency & Failure Risk Simulator**](https://github.com/1-gokul/DepthCharge) | Simulates microservice failure cascades, analyzes service dependencies using graph analytics, ranks critical services, and predicts failure risk using machine learning | Python, FastAPI, NetworkX, scikit-learn, SQLite |
 | [**Face Recognition CNN**](https://github.com/1-gokul/face-recognition-cnn) | Deep learning-based face recognition system built from scratch using convolutional neural networks for feature extraction and classification | Python, CNN, TensorFlow |
 
 ---
