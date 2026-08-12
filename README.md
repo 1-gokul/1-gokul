@@ -40,7 +40,7 @@ or a small tool that makes a workflow 20x faster.
 
 | Project | Description | Tech Stack |
 |----------|-------------|------------|
-| [**Instruct AI**](https://github.com/1-gokul/Instruct-AI) | LLM-powered assessment and exam proctoring platform featuring content generation, object detection, eye-movement monitoring, and automated evaluation workflows | Python, YOLOv5, SQL, HTML |
+| [**Instruct AI**](https://github.com/1-gokul/Instruct-AI) | LLM-powered assessment and exam proctoring platform featuring content generation, object detection, eye-movement monitoring, and automated evaluation workflows | Python, OpenCV, SQL, HTML |
 | [**BioVision AI**](https://github.com/1-gokul/BioVision-AI-Deep-Learning-Based-Microscopic-Cell-Analysis) | AI-powered biological image analysis platform for automated blood cell detection, counting, and classification using deep learning and computer vision techniques | Python, YOLOv8, OpenCV, PyTorch, Streamlit, SQLite |
 | [**Face Recognition CNN**](https://github.com/1-gokul/face-recognition-cnn) | Deep learning-based face recognition system built from scratch using convolutional neural networks for feature extraction and classification | Python, CNN, TensorFlow |
 
