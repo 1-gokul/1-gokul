@@ -34,18 +34,16 @@ I enjoy building practical software — from backend APIs and developer tools to
 * 🧩 Problem solving — turning requirements into working solutions
 
 ---
-
 ## 🚀 Significant Projects
 
 | Project                                                                                                   | Description                                                                                                                                                                                               | Tech Stack                                                   |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [**CodeSync**](https://github.com/1-gokul/CodeSync)                                                       | Native Python desktop application that automates local workspace synchronization with GitHub, combining Git operations, GitHub API integration, scheduled background syncing, and synchronization history | Python, GitPython, PyGithub, MongoDB, PyMongo, CustomTkinter |
-| [**Instruct AI**](https://github.com/1-gokul/Instruct-AI)                                                 | LLM-powered assessment and exam proctoring platform featuring content generation, object detection, eye-movement monitoring, and automated evaluation workflows                                           | Python, OpenCV, SQL, HTML                                    |
-| [**BioVision AI**](https://github.com/1-gokul/BioVision-AI-Deep-Learning-Based-Microscopic-Cell-Analysis) | AI-powered biological image analysis platform for automated blood cell detection, counting, and classification using deep learning and computer vision                                                    | Python, YOLOv8, OpenCV, PyTorch, Streamlit, SQLite           |
-| [**Face Recognition CNN**](https://github.com/1-gokul/face-recognition-cnn)                               | Deep learning-based face recognition system built from scratch using convolutional neural networks for feature extraction and classification                                                              | Python, CNN, TensorFlow                                      |
+| [**CodeSync**](https://github.com/1-gokul/CodeSync)                                                       | Native Python desktop application that automates local workspace synchronization with GitHub, combining Git operations, GitHub API integration, scheduled background syncing, and synchronization history | GitPython, PyGithub, Python, MongoDB, PyMongo, CustomTkinter |
+| [**Instruct AI**](https://github.com/1-gokul/Instruct-AI)                                                 | LLM-powered assessment and exam proctoring platform featuring content generation, object detection, eye-movement monitoring, and automated evaluation workflows                                           | OpenCV, SQL, Python, HTML                                    |
+| [**BioVision AI**](https://github.com/1-gokul/BioVision-AI-Deep-Learning-Based-Microscopic-Cell-Analysis) | AI-powered biological image analysis platform for automated blood cell detection, counting, and classification using deep learning and computer vision                                                    | YOLOv8, PyTorch, OpenCV, Python, Streamlit, SQLite           |
+| [**Face Recognition CNN**](https://github.com/1-gokul/face-recognition-cnn)                               | Deep learning-based face recognition system built from scratch using convolutional neural networks for feature extraction and classification                                                              | TensorFlow, CNN, Python                                      |
 
 ---
-
 ## 🧰 Tech Stack
 
 <div align="center">
